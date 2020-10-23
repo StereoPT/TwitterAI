@@ -1,0 +1,34 @@
+{
+  "name": "twitterai",
+  "version": "1.0.0",
+  "description": "Node.js Artificial Intelligence Twitter User.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node -r esm app.js",
+    "dev": "nodemon -r esm app.js --ignore *.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StereoPT/TwitterAI.git"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "StereoPT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StereoPT/TwitterAI/issues"
+  },
+  "homepage": "https://github.com/StereoPT/TwitterAI#readme",
+  "dependencies": {
+    "cli-progress": "^3.8.2",
+    "esm": "^3.2.25",
+    "lowdb": "^1.0.0",
+    "markov-strings": "^2.1.1",
+    "shuffle-array": "^1.0.1",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

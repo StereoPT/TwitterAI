@@ -1,0 +1,4594 @@
+{
+  "Halloween": [
+    {
+      "created_at": "Fri Oct 23 09:38:42 +0000 2020",
+      "id": 1319573955661992000,
+      "id_str": "1319573955661991936",
+      "text": "RT @beatriizplima: como é que estão sequer a pensar em fazer festas no Halloween sendo q estamos com 3200 casos por dia kkkkk falta de noçã…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "beatriizplima",
+            "name": "bibs",
+            "id": 4344390203,
+            "id_str": "4344390203",
+            "indices": [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 771162376905384000,
+        "id_str": "771162376905383936",
+        "name": "Santos",
+        "screen_name": "joana_santos_12",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 486,
+        "friends_count": 217,
+        "listed_count": 2,
+        "created_at": "Thu Sep 01 01:46:53 +0000 2016",
+        "favourites_count": 18269,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 86971,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1303722561541419008/A6psWKh7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1303722561541419008/A6psWKh7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/771162376905383936/1599860402",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 22 19:23:20 +0000 2020",
+        "id": 1319358695868870700,
+        "id_str": "1319358695868870666",
+        "text": "como é que estão sequer a pensar em fazer festas no Halloween sendo q estamos com 3200 casos por dia kkkkk falta de noção tbh",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "pt",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 4344390203,
+          "id_str": "4344390203",
+          "name": "bibs",
+          "screen_name": "beatriizplima",
+          "location": "Lisboa, Portugal",
+          "description": "1904",
+          "url": "https://t.co/wp3XtQbJxD",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/wp3XtQbJxD",
+                  "expanded_url": "https://www.instagram.com/beatriiz.plima/",
+                  "display_url": "instagram.com/beatriiz.plima/",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 3437,
+          "friends_count": 457,
+          "listed_count": 0,
+          "created_at": "Tue Dec 01 22:52:41 +0000 2015",
+          "favourites_count": 23386,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 43448,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1295050288848605186/0EBeut0y_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1295050288848605186/0EBeut0y_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/4344390203/1600456109",
+          "profile_link_color": "B22222",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 485,
+        "favorite_count": 590,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+      },
+      "is_quote_status": false,
+      "retweet_count": 485,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Fri Oct 23 09:38:32 +0000 2020",
+      "id": 1319573914629144600,
+      "id_str": "1319573914629144576",
+      "text": "RT @beatriizplima: como é que estão sequer a pensar em fazer festas no Halloween sendo q estamos com 3200 casos por dia kkkkk falta de noçã…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "beatriizplima",
+            "name": "bibs",
+            "id": 4344390203,
+            "id_str": "4344390203",
+            "indices": [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2898559492,
+        "id_str": "2898559492",
+        "name": "Bernardo",
+        "screen_name": "bernardom99",
+        "location": "",
+        "description": "E Pluribus Unum",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 252,
+        "friends_count": 276,
+        "listed_count": 4,
+        "created_at": "Sun Nov 30 01:24:35 +0000 2014",
+        "favourites_count": 19663,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 34048,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1314700238721081347/LLV-5thR_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1314700238721081347/LLV-5thR_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2898559492/1602469507",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 22 19:23:20 +0000 2020",
+        "id": 1319358695868870700,
+        "id_str": "1319358695868870666",
+        "text": "como é que estão sequer a pensar em fazer festas no Halloween sendo q estamos com 3200 casos por dia kkkkk falta de noção tbh",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "pt",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 4344390203,
+          "id_str": "4344390203",
+          "name": "bibs",
+          "screen_name": "beatriizplima",
+          "location": "Lisboa, Portugal",
+          "description": "1904",
+          "url": "https://t.co/wp3XtQbJxD",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/wp3XtQbJxD",
+                  "expanded_url": "https://www.instagram.com/beatriiz.plima/",
+                  "display_url": "instagram.com/beatriiz.plima/",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 3437,
+          "friends_count": 457,
+          "listed_count": 0,
+          "created_at": "Tue Dec 01 22:52:41 +0000 2015",
+          "favourites_count": 23386,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 43448,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1295050288848605186/0EBeut0y_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1295050288848605186/0EBeut0y_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/4344390203/1600456109",
+          "profile_link_color": "B22222",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 485,
+        "favorite_count": 590,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+      },
+      "is_quote_status": false,
+      "retweet_count": 485,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Fri Oct 23 09:37:56 +0000 2020",
+      "id": 1319573763369861000,
+      "id_str": "1319573763369861120",
+      "text": "agora já nada me para de fazer a make up do olaf do tiktok no halloween 🤭🤭 se ficar manchada pelo menos tenho 3 dias para voltar ao normal",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1109182872206876700,
+        "id_str": "1109182872206876674",
+        "name": "jeßica 🧚🏻‍♀️🦇",
+        "screen_name": "suunfloweers",
+        "location": "saturn ",
+        "description": "morte aos fachos// she/her// currently surviving flul 🥴",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 169,
+        "friends_count": 533,
+        "listed_count": 0,
+        "created_at": "Fri Mar 22 19:59:39 +0000 2019",
+        "favourites_count": 24948,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 14105,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1314239183838478336/AdDNoB2D_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1314239183838478336/AdDNoB2D_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1109182872206876674/1601635024",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Fri Oct 23 09:37:06 +0000 2020",
+      "id": 1319573554241937400,
+      "id_str": "1319573554241937408",
+      "text": "RT @beatriizplima: como é que estão sequer a pensar em fazer festas no Halloween sendo q estamos com 3200 casos por dia kkkkk falta de noçã…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "beatriizplima",
+            "name": "bibs",
+            "id": 4344390203,
+            "id_str": "4344390203",
+            "indices": [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4090530562,
+        "id_str": "4090530562",
+        "name": "inês",
+        "screen_name": "Teixeiiraaa",
+        "location": "Estarreja, Portugal",
+        "description": "ig: teixeiiraa",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 929,
+        "friends_count": 646,
+        "listed_count": 1,
+        "created_at": "Sun Nov 01 14:30:59 +0000 2015",
+        "favourites_count": 22265,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 24878,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1300448285325488129/DyQV6qST_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1300448285325488129/DyQV6qST_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4090530562/1598816714",
+        "profile_link_color": "ABB8C2",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 22 19:23:20 +0000 2020",
+        "id": 1319358695868870700,
+        "id_str": "1319358695868870666",
+        "text": "como é que estão sequer a pensar em fazer festas no Halloween sendo q estamos com 3200 casos por dia kkkkk falta de noção tbh",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "pt",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 4344390203,
+          "id_str": "4344390203",
+          "name": "bibs",
+          "screen_name": "beatriizplima",
+          "location": "Lisboa, Portugal",
+          "description": "1904",
+          "url": "https://t.co/wp3XtQbJxD",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/wp3XtQbJxD",
+                  "expanded_url": "https://www.instagram.com/beatriiz.plima/",
+                  "display_url": "instagram.com/beatriiz.plima/",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 3437,
+          "friends_count": 457,
+          "listed_count": 0,
+          "created_at": "Tue Dec 01 22:52:41 +0000 2015",
+          "favourites_count": 23386,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 43448,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1295050288848605186/0EBeut0y_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1295050288848605186/0EBeut0y_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/4344390203/1600456109",
+          "profile_link_color": "B22222",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 485,
+        "favorite_count": 590,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+      },
+      "is_quote_status": false,
+      "retweet_count": 485,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Fri Oct 23 09:36:59 +0000 2020",
+      "id": 1319573524533661700,
+      "id_str": "1319573524533661696",
+      "text": "Sabem o que é que não pode faltar no halloween este ano?\n\nA máscara! 😂🤣",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3308065696,
+        "id_str": "3308065696",
+        "name": "🅱️olota",
+        "screen_name": "APikenaMaria",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 141,
+        "friends_count": 394,
+        "listed_count": 0,
+        "created_at": "Thu Jun 04 09:55:30 +0000 2015",
+        "favourites_count": 13536,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 3860,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1289695751342366732/__sR0ZfJ_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1289695751342366732/__sR0ZfJ_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3308065696/1596323888",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Fri Oct 23 09:36:44 +0000 2020",
+      "id": 1319573461983953000,
+      "id_str": "1319573461983952897",
+      "text": "RT @gabriel_tx666: este halloween vou me vestir de alcatrão para ver se sou atropelado",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "gabriel_tx666",
+            "name": "Mike Manivelas",
+            "id": 1594147488,
+            "id_str": "1594147488",
+            "indices": [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 798646017725960200,
+        "id_str": "798646017725960193",
+        "name": "Diana 🦋",
+        "screen_name": "_dianapereiraa_",
+        "location": "",
+        "description": "insta : _diianapereira_",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 298,
+        "friends_count": 551,
+        "listed_count": 0,
+        "created_at": "Tue Nov 15 21:57:03 +0000 2016",
+        "favourites_count": 1419,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 12381,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1308193380581756933/FWcPsP2t_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1308193380581756933/FWcPsP2t_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/798646017725960193/1601327518",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Wed Oct 21 22:46:38 +0000 2020",
+        "id": 1319047469867597800,
+        "id_str": "1319047469867597824",
+        "text": "este halloween vou me vestir de alcatrão para ver se sou atropelado",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "pt",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1594147488,
+          "id_str": "1594147488",
+          "name": "Mike Manivelas",
+          "screen_name": "gabriel_tx666",
+          "location": "",
+          "description": "abéro",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 308,
+          "friends_count": 296,
+          "listed_count": 0,
+          "created_at": "Sun Jul 14 20:12:37 +0000 2013",
+          "favourites_count": 2465,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 19704,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1318302112544100353/Havn_F9U_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1318302112544100353/Havn_F9U_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1594147488/1603142667",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 106,
+        "favorite_count": 103,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+      },
+      "is_quote_status": false,
+      "retweet_count": 106,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Fri Oct 23 09:36:32 +0000 2020",
+      "id": 1319573413086855200,
+      "id_str": "1319573413086855168",
+      "text": "🎃AGORA MARQUE 4 AMIGOS PRA FAZER TAMBÉM 🎃\n\n 🎃🕸️FELIZ HALLOWEEN 🎃🕸️ https://t.co/mHZn5PPgb1",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1319573046005502000,
+            "id_str": "1319573046005501953",
+            "indices": [
+              67,
+              90
+            ],
+            "media_url": "http://pbs.twimg.com/media/ElAQsaZWkAEyZqC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ElAQsaZWkAEyZqC.jpg",
+            "url": "https://t.co/mHZn5PPgb1",
+            "display_url": "pic.twitter.com/mHZn5PPgb1",
+            "expanded_url": "https://twitter.com/cncowner_br2015/status/1319573413086855168/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 746,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 547,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 600,
+                "h": 746,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1319573046005502000,
+            "id_str": "1319573046005501953",
+            "indices": [
+              67,
+              90
+            ],
+            "media_url": "http://pbs.twimg.com/media/ElAQsaZWkAEyZqC.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ElAQsaZWkAEyZqC.jpg",
+            "url": "https://t.co/mHZn5PPgb1",
+            "display_url": "pic.twitter.com/mHZn5PPgb1",
+            "expanded_url": "https://twitter.com/cncowner_br2015/status/1319573413086855168/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 600,
+                "h": 746,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 547,
+                "h": 680,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 600,
+                "h": 746,
+                "resize": "fit"
+              }
+            }
+          },
+          {
+            "id": 1319573095443800000,
+            "id_str": "1319573095443800064",
+            "indices": [
+              67,
+              90
+            ],
+            "media_url": "http://pbs.twimg.com/media/ElAQvSkXIAAuZRD.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ElAQvSkXIAAuZRD.jpg",
+            "url": "https://t.co/mHZn5PPgb1",
+            "display_url": "pic.twitter.com/mHZn5PPgb1",
+            "expanded_url": "https://twitter.com/cncowner_br2015/status/1319573413086855168/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1222,
+                "h": 911,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 507,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 895,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1295150059953238000,
+        "id_str": "1295150059953238016",
+        "name": "cncowners_brasil_2015",
+        "screen_name": "cncowner_br2015",
+        "location": "",
+        "description": "CNCOWNER HASTA EL FINAL 💖\n\nSEJAM BEM-VINDOS MEUS AMORES💕\n\nPERFIL DEDICADO A @cncomusic",
+        "url": "https://t.co/qQNlqqNPfg",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/qQNlqqNPfg",
+                "expanded_url": "https://www.instagram.com/cncowners_brasil_2015?r=nametag",
+                "display_url": "instagram.com/cncowners_bras…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 5,
+        "friends_count": 24,
+        "listed_count": 0,
+        "created_at": "Mon Aug 17 00:07:13 +0000 2020",
+        "favourites_count": 51,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 159,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1311956969280987136/Ge8RBATw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1311956969280987136/Ge8RBATw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1295150059953238016/1601675305",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Fri Oct 23 09:35:36 +0000 2020",
+      "id": 1319573177408888800,
+      "id_str": "1319573177408888832",
+      "text": "RT @laura_r_alves: No Halloween vou me mascarar de placard a ver se ele aposta em mim kkkkkk",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "laura_r_alves",
+            "name": "Laura Alves",
+            "id": 4899123569,
+            "id_str": "4899123569",
+            "indices": [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1149675867070763000,
+        "id_str": "1149675867070763008",
+        "name": "Carol",
+        "screen_name": "carol44ferreira",
+        "location": "Barcelos, Braga, Portugal",
+        "description": "ig: carol.ferreira44 // @slbenfica",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1020,
+        "friends_count": 430,
+        "listed_count": 0,
+        "created_at": "Fri Jul 12 13:44:21 +0000 2019",
+        "favourites_count": 2014,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1760,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1299489730241925122/4B7D953l_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1299489730241925122/4B7D953l_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1149675867070763008/1602254354",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Oct 23 07:31:42 +0000 2020",
+        "id": 1319541994662858800,
+        "id_str": "1319541994662858752",
+        "text": "No Halloween vou me mascarar de placard a ver se ele aposta em mim kkkkkk",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "pt",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 4899123569,
+          "id_str": "4899123569",
+          "name": "Laura Alves",
+          "screen_name": "laura_r_alves",
+          "location": "Aveiro, Portugal",
+          "description": "👻- lauriini Ig:lauraramosalves",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 1085,
+          "friends_count": 1114,
+          "listed_count": 3,
+          "created_at": "Thu Feb 11 20:14:02 +0000 2016",
+          "favourites_count": 19172,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 32480,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1312072778200363008/M3suILsL_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1312072778200363008/M3suILsL_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/4899123569/1602450129",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 22,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+      },
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Fri Oct 23 09:34:52 +0000 2020",
+      "id": 1319572991999725600,
+      "id_str": "1319572991999725568",
+      "text": "RT @nite_pa_dux: Este halloween vou me mascarar de cadeira pra ver se vens sentar",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nite_pa_dux",
+            "name": "gil",
+            "id": 962997639716462600,
+            "id_str": "962997639716462592",
+            "indices": [
+              3,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 962997639716462600,
+        "id_str": "962997639716462592",
+        "name": "gil",
+        "screen_name": "nite_pa_dux",
+        "location": "Na festa",
+        "description": "it's all jokes here\n\n@giwocas1",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 444,
+        "friends_count": 438,
+        "listed_count": 0,
+        "created_at": "Mon Feb 12 10:31:43 +0000 2018",
+        "favourites_count": 23332,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 17624,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1317515966620860418/jODV3-bo_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317515966620860418/jODV3-bo_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/962997639716462592/1599131926",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 22 21:47:04 +0000 2020",
+        "id": 1319394867546673200,
+        "id_str": "1319394867546673154",
+        "text": "Este halloween vou me mascarar de cadeira pra ver se vens sentar",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "pt",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 962997639716462600,
+          "id_str": "962997639716462592",
+          "name": "gil",
+          "screen_name": "nite_pa_dux",
+          "location": "Na festa",
+          "description": "it's all jokes here\n\n@giwocas1",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 444,
+          "friends_count": 438,
+          "listed_count": 0,
+          "created_at": "Mon Feb 12 10:31:43 +0000 2018",
+          "favourites_count": 23332,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 17624,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1317515966620860418/jODV3-bo_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317515966620860418/jODV3-bo_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/962997639716462592/1599131926",
+          "profile_link_color": "19CF86",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 30,
+        "favorite_count": 56,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+      },
+      "is_quote_status": false,
+      "retweet_count": 30,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Fri Oct 23 09:34:46 +0000 2020",
+      "id": 1319572966158618600,
+      "id_str": "1319572966158618624",
+      "text": "RT @FabioSilva_010: ainda nao me acredito q nao se pode sair do concelho no halloween",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "FabioSilva_010",
+            "name": ".Sh!va!",
+            "id": 1162524158913331200,
+            "id_str": "1162524158913331206",
+            "indices": [
+              3,
+              18
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 824695385067257900,
+        "id_str": "824695385067257858",
+        "name": "biocasss🤪",
+        "screen_name": "biaa_silva00",
+        "location": "",
+        "description": "ig: biaa_silva000• Pai💙🌟",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 312,
+        "friends_count": 209,
+        "listed_count": 0,
+        "created_at": "Thu Jan 26 19:07:56 +0000 2017",
+        "favourites_count": 8284,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 57864,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1314343990498648064/QRjVIwdb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1314343990498648064/QRjVIwdb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/824695385067257858/1602874122",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Oct 23 01:07:47 +0000 2020",
+        "id": 1319445380073988000,
+        "id_str": "1319445380073988098",
+        "text": "ainda nao me acredito q nao se pode sair do concelho no halloween",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "pt",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1162524158913331200,
+          "id_str": "1162524158913331206",
+          "name": ".Sh!va!",
+          "screen_name": "FabioSilva_010",
+          "location": "Valongo, Portugal",
+          "description": "ig: fabiosilva010",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 345,
+          "friends_count": 184,
+          "listed_count": 0,
+          "created_at": "Sat Aug 17 00:39:38 +0000 2019",
+          "favourites_count": 1589,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 3292,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1317995141848850434/WEKIeIHF_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317995141848850434/WEKIeIHF_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1162524158913331206/1603069661",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+      },
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Fri Oct 23 09:34:04 +0000 2020",
+      "id": 1319572791272747000,
+      "id_str": "1319572791272747013",
+      "text": "Mondelez lança edição limitada de Oreo Halloween https://t.co/6ybMPo9rUm https://t.co/NBcPECWaDP",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6ybMPo9rUm",
+            "expanded_url": "http://dlvr.it/Rk9lwc",
+            "display_url": "dlvr.it/Rk9lwc",
+            "indices": [
+              49,
+              72
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1319572788676489200,
+            "id_str": "1319572788676489222",
+            "indices": [
+              73,
+              96
+            ],
+            "media_url": "http://pbs.twimg.com/media/ElAQdbxVcAYT7lb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ElAQdbxVcAYT7lb.jpg",
+            "url": "https://t.co/NBcPECWaDP",
+            "display_url": "pic.twitter.com/NBcPECWaDP",
+            "expanded_url": "https://twitter.com/agenciapontopt/status/1319572791272747013/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 237,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 715,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 419,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1319572788676489200,
+            "id_str": "1319572788676489222",
+            "indices": [
+              73,
+              96
+            ],
+            "media_url": "http://pbs.twimg.com/media/ElAQdbxVcAYT7lb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ElAQdbxVcAYT7lb.jpg",
+            "url": "https://t.co/NBcPECWaDP",
+            "display_url": "pic.twitter.com/NBcPECWaDP",
+            "expanded_url": "https://twitter.com/agenciapontopt/status/1319572791272747013/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 237,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 2048,
+                "h": 715,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 419,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 572511136,
+        "id_str": "572511136",
+        "name": "Agência.pt",
+        "screen_name": "agenciapontopt",
+        "location": "Lisboa, Portugal",
+        "description": "A Agência.pt – Agência Ponto Pt é o blog para profissionais de Marketing que encontram aqui dicas, notícias e ferramentas para o seu dia-a-dia.",
+        "url": "https://t.co/6wtJfVBkWJ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/6wtJfVBkWJ",
+                "expanded_url": "http://www.xn--agncia-jva.pt",
+                "display_url": "agência.pt",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3232,
+        "friends_count": 2285,
+        "listed_count": 54,
+        "created_at": "Sun May 06 10:39:17 +0000 2012",
+        "favourites_count": 129,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 24755,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/772468016152010752/V6bwJuWg_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/772468016152010752/V6bwJuWg_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/572511136/1464420575",
+        "profile_link_color": "24D1FC",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Fri Oct 23 09:33:59 +0000 2020",
+      "id": 1319572769403752400,
+      "id_str": "1319572769403752449",
+      "text": "RT @nightmaretxt: MOAS ATENÇÃO AQUI CARALHO É IMPORTANTE NÃO IGNOREM ‼‼‼‼\n\nQue tal a gente virar música de novo no halloween dia 31? Vai se…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nightmaretxt",
+            "name": "Ana✜⁷ |🐣𖣎 IN生",
+            "id": 1201536832145690600,
+            "id_str": "1201536832145690624",
+            "indices": [
+              3,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1279556145871536000,
+        "id_str": "1279556145871536129",
+        "name": "mundinho boquinha do jjunie",
+        "screen_name": "yeosangalax",
+        "location": "ela/dela",
+        "description": "⠀ ⠀ ⠀       ໑݊𓂃𖥻txt: you and i find each other\n⠀ ⠀               ⠀ ⠀ ⠀  at the sky at 5:53",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 3006,
+        "friends_count": 3064,
+        "listed_count": 28,
+        "created_at": "Sat Jul 04 23:22:28 +0000 2020",
+        "favourites_count": 13519,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 7055,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1319296479643615236/0s4VFspS_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1319296479643615236/0s4VFspS_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1279556145871536129/1602931415",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 22 23:27:10 +0000 2020",
+        "id": 1319420061057192000,
+        "id_str": "1319420061057191936",
+        "text": "MOAS ATENÇÃO AQUI CARALHO É IMPORTANTE NÃO IGNOREM ‼‼‼‼\n\nQue tal a gente virar música de novo no halloween dia 31?… https://t.co/2Z7VMuHO5u",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/2Z7VMuHO5u",
+              "expanded_url": "https://twitter.com/i/web/status/1319420061057191936",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                116,
+                139
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "pt",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1201536832145690600,
+          "id_str": "1201536832145690624",
+          "name": "Ana✜⁷ |🐣𖣎 IN生",
+          "screen_name": "nightmaretxt",
+          "location": "",
+          "description": "#YEONJUN: Please, love yourself more than you love us || fan account • Mari's universe 🌌 • ela/her",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 4821,
+          "friends_count": 2915,
+          "listed_count": 85,
+          "created_at": "Mon Dec 02 16:21:30 +0000 2019",
+          "favourites_count": 69157,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 44589,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1318032272256307201/6rg5XEeP_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1318032272256307201/6rg5XEeP_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1201536832145690624/1603078355",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 127,
+        "favorite_count": 281,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+      },
+      "is_quote_status": false,
+      "retweet_count": 127,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Fri Oct 23 09:33:56 +0000 2020",
+      "id": 1319572757630341000,
+      "id_str": "1319572757630341120",
+      "text": "RT @TXT_BR: [🎥•MUSIC BANK]\n\nSB: É Halloween mas há outra coisa...\nAR: O que é?\nSB: Você não sabe?!\nAR: Não tenho certeza...\nSB: Você realme…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "TXT_BR",
+            "name": "TXT BRAZIL ✜",
+            "id": 1067213661821898800,
+            "id_str": "1067213661821898752",
+            "indices": [
+              3,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1263910242104029200,
+        "id_str": "1263910242104029185",
+        "name": "ᵔᴗᵔ",
+        "screen_name": "fairytaehy",
+        "location": "⠀𝟓:𝟓𝟑 — tyu͟n͟  ilysm ᵎᵎ 𖥻𖥻\n ✰»ؘ 달빛 정령, 소울 메이트\n",
+        "description": "",
+        "url": "https://t.co/Pqgc8KfeXc",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Pqgc8KfeXc",
+                "expanded_url": "http://xn--moonlight-j0u4937b.xn--6ii",
+                "display_url": "moonlight⠀੭.⠀",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 4003,
+        "friends_count": 3529,
+        "listed_count": 49,
+        "created_at": "Fri May 22 19:11:06 +0000 2020",
+        "favourites_count": 33484,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 29861,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1317568548378714113/WqoNZu3V_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317568548378714113/WqoNZu3V_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1263910242104029185/1602999708",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Oct 23 09:14:26 +0000 2020",
+        "id": 1319567849648685000,
+        "id_str": "1319567849648685057",
+        "text": "[🎥•MUSIC BANK]\n\nSB: É Halloween mas há outra coisa...\nAR: O que é?\nSB: Você não sabe?!\nAR: Não tenho certeza...\nSB:… https://t.co/E5nWgERZ9N",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/E5nWgERZ9N",
+              "expanded_url": "https://twitter.com/i/web/status/1319567849648685057",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "pt",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1067213661821898800,
+          "id_str": "1067213661821898752",
+          "name": "TXT BRAZIL ✜",
+          "screen_name": "TXT_BR",
+          "location": "Brasil",
+          "description": "Sua fonte brasileira mais completa sobre o @TXT_members! Tomorrow by Together, Tomorrow by Eternity. Contato: tomorrowxtogetherbr@gmail.com // LDF 💛",
+          "url": "https://t.co/ePQO22kM8G",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/ePQO22kM8G",
+                  "expanded_url": "http://txtbrazil.com.br",
+                  "display_url": "txtbrazil.com.br",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 31722,
+          "friends_count": 209,
+          "listed_count": 171,
+          "created_at": "Tue Nov 27 00:28:59 +0000 2018",
+          "favourites_count": 13166,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 22025,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1315943572135444482/hKlidddX_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1315943572135444482/hKlidddX_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1067213661821898752/1602580370",
+          "profile_link_color": "981CEB",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 30,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Fri Oct 23 09:33:49 +0000 2020",
+      "id": 1319572727137771500,
+      "id_str": "1319572727137771521",
+      "text": "RT @antonio__lima: Halloween em Olhão vai ser tipo a purga",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "antonio__lima",
+            "name": "L̶i̶m̶a̶",
+            "id": 948230455807107100,
+            "id_str": "948230455807107075",
+            "indices": [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1184421436963864600,
+        "id_str": "1184421436963864576",
+        "name": "🦕lu",
+        "screen_name": "Luanaaventuraa",
+        "location": "",
+        "description": "ig: luanaaa.venturaa \n👻: luanaventur1416",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 154,
+        "friends_count": 110,
+        "listed_count": 0,
+        "created_at": "Wed Oct 16 10:51:22 +0000 2019",
+        "favourites_count": 3845,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1300,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1318684277517766665/ccS9aGKp_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1318684277517766665/ccS9aGKp_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1184421436963864576/1603233806",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 22 23:15:30 +0000 2020",
+        "id": 1319417124411113500,
+        "id_str": "1319417124411113474",
+        "text": "Halloween em Olhão vai ser tipo a purga",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "pt",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 948230455807107100,
+          "id_str": "948230455807107075",
+          "name": "L̶i̶m̶a̶",
+          "screen_name": "antonio__lima",
+          "location": "Portugal",
+          "description": "ig : antonio_.lima",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 114,
+          "friends_count": 123,
+          "listed_count": 0,
+          "created_at": "Tue Jan 02 16:32:12 +0000 2018",
+          "favourites_count": 1410,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 1333,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1314671208642875392/Dqrpa3fo_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1314671208642875392/Dqrpa3fo_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/948230455807107075/1600046109",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+      },
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Fri Oct 23 09:33:44 +0000 2020",
+      "id": 1319572707915239400,
+      "id_str": "1319572707915239424",
+      "text": "RT @beatriizplima: como é que estão sequer a pensar em fazer festas no Halloween sendo q estamos com 3200 casos por dia kkkkk falta de noçã…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "beatriizplima",
+            "name": "bibs",
+            "id": 4344390203,
+            "id_str": "4344390203",
+            "indices": [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1085904804633825300,
+        "id_str": "1085904804633825280",
+        "name": "Diogo Alexandre",
+        "screen_name": "DiogoAl34272682",
+        "location": "Portugal",
+        "description": "🇵🇹🇵🇹\n18y",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 78,
+        "friends_count": 156,
+        "listed_count": 0,
+        "created_at": "Thu Jan 17 14:20:55 +0000 2019",
+        "favourites_count": 5153,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 5526,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1307813925958946822/CiEGaEY7_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1307813925958946822/CiEGaEY7_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1085904804633825280/1547736201",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 22 19:23:20 +0000 2020",
+        "id": 1319358695868870700,
+        "id_str": "1319358695868870666",
+        "text": "como é que estão sequer a pensar em fazer festas no Halloween sendo q estamos com 3200 casos por dia kkkkk falta de noção tbh",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "pt",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 4344390203,
+          "id_str": "4344390203",
+          "name": "bibs",
+          "screen_name": "beatriizplima",
+          "location": "Lisboa, Portugal",
+          "description": "1904",
+          "url": "https://t.co/wp3XtQbJxD",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/wp3XtQbJxD",
+                  "expanded_url": "https://www.instagram.com/beatriiz.plima/",
+                  "display_url": "instagram.com/beatriiz.plima/",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 3437,
+          "friends_count": 457,
+          "listed_count": 0,
+          "created_at": "Tue Dec 01 22:52:41 +0000 2015",
+          "favourites_count": 23386,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 43448,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1295050288848605186/0EBeut0y_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1295050288848605186/0EBeut0y_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/4344390203/1600456109",
+          "profile_link_color": "B22222",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 485,
+        "favorite_count": 590,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+      },
+      "is_quote_status": false,
+      "retweet_count": 485,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Fri Oct 23 09:33:31 +0000 2020",
+      "id": 1319572653292781600,
+      "id_str": "1319572653292781569",
+      "text": "RT @beatriizplima: como é que estão sequer a pensar em fazer festas no Halloween sendo q estamos com 3200 casos por dia kkkkk falta de noçã…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "beatriizplima",
+            "name": "bibs",
+            "id": 4344390203,
+            "id_str": "4344390203",
+            "indices": [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 979039818251493400,
+        "id_str": "979039818251493376",
+        "name": "Catarina",
+        "screen_name": "catagouveia9",
+        "location": "",
+        "description": "🦋",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 87,
+        "friends_count": 179,
+        "listed_count": 1,
+        "created_at": "Wed Mar 28 16:57:37 +0000 2018",
+        "favourites_count": 16325,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2956,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1304543243066126336/K2XrZdm4_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1304543243066126336/K2XrZdm4_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/979039818251493376/1593604999",
+        "profile_link_color": "91D2FA",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 22 19:23:20 +0000 2020",
+        "id": 1319358695868870700,
+        "id_str": "1319358695868870666",
+        "text": "como é que estão sequer a pensar em fazer festas no Halloween sendo q estamos com 3200 casos por dia kkkkk falta de noção tbh",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "pt",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 4344390203,
+          "id_str": "4344390203",
+          "name": "bibs",
+          "screen_name": "beatriizplima",
+          "location": "Lisboa, Portugal",
+          "description": "1904",
+          "url": "https://t.co/wp3XtQbJxD",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/wp3XtQbJxD",
+                  "expanded_url": "https://www.instagram.com/beatriiz.plima/",
+                  "display_url": "instagram.com/beatriiz.plima/",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 3437,
+          "friends_count": 457,
+          "listed_count": 0,
+          "created_at": "Tue Dec 01 22:52:41 +0000 2015",
+          "favourites_count": 23386,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 43448,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1295050288848605186/0EBeut0y_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1295050288848605186/0EBeut0y_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/4344390203/1600456109",
+          "profile_link_color": "B22222",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 485,
+        "favorite_count": 590,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+      },
+      "is_quote_status": false,
+      "retweet_count": 485,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Fri Oct 23 09:33:18 +0000 2020",
+      "id": 1319572596292264000,
+      "id_str": "1319572596292263936",
+      "text": "RT @pagodeanos90: Ta chegando o halloween e a minha fantasia era te ter um dia",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pagodeanos90",
+            "name": "Pagode Anos 90",
+            "id": 117933253,
+            "id_str": "117933253",
+            "indices": [
+              3,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1231254770062635000,
+        "id_str": "1231254770062635009",
+        "name": "negu mala🧰",
+        "screen_name": "HigorSena7",
+        "location": "",
+        "description": "18 anos",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 80,
+        "friends_count": 97,
+        "listed_count": 0,
+        "created_at": "Sat Feb 22 16:30:00 +0000 2020",
+        "favourites_count": 8454,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1015,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1300212327518810115/7qXuIGiN_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1300212327518810115/7qXuIGiN_normal.jpg",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 22 12:58:23 +0000 2020",
+        "id": 1319261821694595000,
+        "id_str": "1319261821694595072",
+        "text": "Ta chegando o halloween e a minha fantasia era te ter um dia",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "pt",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 117933253,
+          "id_str": "117933253",
+          "name": "Pagode Anos 90",
+          "screen_name": "pagodeanos90",
+          "location": "",
+          "description": "Pode quebrar o pescocinho pro lado",
+          "url": "https://t.co/ZmfyWNTPie",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/ZmfyWNTPie",
+                  "expanded_url": "https://instagram.com/paginapagodeanos90?igshid=emsx6z5qvxp1",
+                  "display_url": "instagram.com/paginapagodean…",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 52338,
+          "friends_count": 171,
+          "listed_count": 27,
+          "created_at": "Sat Feb 27 02:45:44 +0000 2010",
+          "favourites_count": 4114,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 10308,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1241373423055638531/ZcVfjLo8_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1241373423055638531/ZcVfjLo8_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/117933253/1589716746",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 623,
+        "favorite_count": 1314,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+      },
+      "is_quote_status": false,
+      "retweet_count": 623,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Fri Oct 23 09:33:04 +0000 2020",
+      "id": 1319572539790790700,
+      "id_str": "1319572539790790657",
+      "text": "RT @beatriizplima: como é que estão sequer a pensar em fazer festas no Halloween sendo q estamos com 3200 casos por dia kkkkk falta de noçã…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "beatriizplima",
+            "name": "bibs",
+            "id": 4344390203,
+            "id_str": "4344390203",
+            "indices": [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4865360374,
+        "id_str": "4865360374",
+        "name": "sofia",
+        "screen_name": "Sofia_SantosM",
+        "location": "Los Angeles, CA",
+        "description": "ig: @sofia_smarques09 sc: sofiasmarques09",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 812,
+        "friends_count": 253,
+        "listed_count": 1,
+        "created_at": "Sat Jan 30 22:31:18 +0000 2016",
+        "favourites_count": 56572,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 58751,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1306882152726966273/bddJ3P2v_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1306882152726966273/bddJ3P2v_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4865360374/1600419910",
+        "profile_link_color": "889900",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 22 19:23:20 +0000 2020",
+        "id": 1319358695868870700,
+        "id_str": "1319358695868870666",
+        "text": "como é que estão sequer a pensar em fazer festas no Halloween sendo q estamos com 3200 casos por dia kkkkk falta de noção tbh",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "pt",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 4344390203,
+          "id_str": "4344390203",
+          "name": "bibs",
+          "screen_name": "beatriizplima",
+          "location": "Lisboa, Portugal",
+          "description": "1904",
+          "url": "https://t.co/wp3XtQbJxD",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/wp3XtQbJxD",
+                  "expanded_url": "https://www.instagram.com/beatriiz.plima/",
+                  "display_url": "instagram.com/beatriiz.plima/",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 3437,
+          "friends_count": 457,
+          "listed_count": 0,
+          "created_at": "Tue Dec 01 22:52:41 +0000 2015",
+          "favourites_count": 23386,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 43448,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1295050288848605186/0EBeut0y_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1295050288848605186/0EBeut0y_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/4344390203/1600456109",
+          "profile_link_color": "B22222",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 485,
+        "favorite_count": 590,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+      },
+      "is_quote_status": false,
+      "retweet_count": 485,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Fri Oct 23 09:32:46 +0000 2020",
+      "id": 1319572464398143500,
+      "id_str": "1319572464398143494",
+      "text": "RT @ChickoNorris: Bom dia minha gente 🌞☀️🌞\n\ne vocês já andam a preparar o Halloween? 😂😃🤔 https://t.co/ksvCj6lp5i",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ChickoNorris",
+            "name": "Chicko Norris",
+            "id": 1157020404,
+            "id_str": "1157020404",
+            "indices": [
+              3,
+              16
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1319561784416784400,
+            "id_str": "1319561784416784384",
+            "indices": [
+              89,
+              112
+            ],
+            "media_url": "http://pbs.twimg.com/media/ElAGc5tX0AAFph5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ElAGc5tX0AAFph5.jpg",
+            "url": "https://t.co/ksvCj6lp5i",
+            "display_url": "pic.twitter.com/ksvCj6lp5i",
+            "expanded_url": "https://twitter.com/ChickoNorris/status/1319561932911857666/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 544,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 959,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 1351,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1319561932911857700,
+            "source_status_id_str": "1319561932911857666",
+            "source_user_id": 1157020404,
+            "source_user_id_str": "1157020404"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1319561784416784400,
+            "id_str": "1319561784416784384",
+            "indices": [
+              89,
+              112
+            ],
+            "media_url": "http://pbs.twimg.com/media/ElAGc5tX0AAFph5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/ElAGc5tX0AAFph5.jpg",
+            "url": "https://t.co/ksvCj6lp5i",
+            "display_url": "pic.twitter.com/ksvCj6lp5i",
+            "expanded_url": "https://twitter.com/ChickoNorris/status/1319561932911857666/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 544,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 959,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1080,
+                "h": 1351,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 1319561932911857700,
+            "source_status_id_str": "1319561932911857666",
+            "source_user_id": 1157020404,
+            "source_user_id_str": "1157020404"
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1154562696240664600,
+        "id_str": "1154562696240664576",
+        "name": "nelsongcduarte",
+        "screen_name": "nelsongcduarte",
+        "location": "",
+        "description": "TENHO RANÇO DE PESSOAS COMO TU",
+        "url": "https://t.co/HC2luASeya",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/HC2luASeya",
+                "expanded_url": "https://youtu.be/96F7btsvyBM",
+                "display_url": "youtu.be/96F7btsvyBM",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 70,
+        "friends_count": 35,
+        "listed_count": 0,
+        "created_at": "Fri Jul 26 01:22:52 +0000 2019",
+        "favourites_count": 4614,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 4253,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1297981288041906179/zuzgJWq1_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1297981288041906179/zuzgJWq1_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1154562696240664576/1599265771",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Oct 23 08:50:55 +0000 2020",
+        "id": 1319561932911857700,
+        "id_str": "1319561932911857666",
+        "text": "Bom dia minha gente 🌞☀️🌞\n\ne vocês já andam a preparar o Halloween? 😂😃🤔 https://t.co/ksvCj6lp5i",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1319561784416784400,
+              "id_str": "1319561784416784384",
+              "indices": [
+                71,
+                94
+              ],
+              "media_url": "http://pbs.twimg.com/media/ElAGc5tX0AAFph5.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/ElAGc5tX0AAFph5.jpg",
+              "url": "https://t.co/ksvCj6lp5i",
+              "display_url": "pic.twitter.com/ksvCj6lp5i",
+              "expanded_url": "https://twitter.com/ChickoNorris/status/1319561932911857666/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 544,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 959,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1080,
+                  "h": 1351,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1319561784416784400,
+              "id_str": "1319561784416784384",
+              "indices": [
+                71,
+                94
+              ],
+              "media_url": "http://pbs.twimg.com/media/ElAGc5tX0AAFph5.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/ElAGc5tX0AAFph5.jpg",
+              "url": "https://t.co/ksvCj6lp5i",
+              "display_url": "pic.twitter.com/ksvCj6lp5i",
+              "expanded_url": "https://twitter.com/ChickoNorris/status/1319561932911857666/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 544,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 959,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1080,
+                  "h": 1351,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "pt",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1157020404,
+          "id_str": "1157020404",
+          "name": "Chicko Norris",
+          "screen_name": "ChickoNorris",
+          "location": "Não sou ateniense, nem grego..",
+          "description": "Bitaiteiro profissional, com vários anos de experiência nas mais diversas áreas.",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 847,
+          "friends_count": 290,
+          "listed_count": 0,
+          "created_at": "Thu Feb 07 12:43:01 +0000 2013",
+          "favourites_count": 25364,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 11681,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1139839930279124992/T7dbvjt4_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1139839930279124992/T7dbvjt4_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/1157020404/1590827689",
+          "profile_link_color": "ABB8C2",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 6,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "pt"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Fri Oct 23 09:32:33 +0000 2020",
+      "id": 1319572409394004000,
+      "id_str": "1319572409394003968",
+      "text": "RT @beatriizplima: como é que estão sequer a pensar em fazer festas no Halloween sendo q estamos com 3200 casos por dia kkkkk falta de noçã…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "beatriizplima",
+            "name": "bibs",
+            "id": 4344390203,
+            "id_str": "4344390203",
+            "indices": [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2592864331,
+        "id_str": "2592864331",
+        "name": "Brunexxx ✨",
+        "screen_name": "brunex24",
+        "location": "🌏",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 816,
+        "friends_count": 868,
+        "listed_count": 5,
+        "created_at": "Sat Jun 28 09:59:48 +0000 2014",
+        "favourites_count": 32756,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 99789,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1289314744319475714/fA_es_V3_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1289314744319475714/fA_es_V3_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2592864331/1602608631",
+        "profile_link_color": "F58EA8",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 22 19:23:20 +0000 2020",
+        "id": 1319358695868870700,
+        "id_str": "1319358695868870666",
+        "text": "como é que estão sequer a pensar em fazer festas no Halloween sendo q estamos com 3200 casos por dia kkkkk falta de noção tbh",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "pt",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 4344390203,
+          "id_str": "4344390203",
+          "name": "bibs",
+          "screen_name": "beatriizplima",
+          "location": "Lisboa, Portugal",
+          "description": "1904",
+          "url": "https://t.co/wp3XtQbJxD",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/wp3XtQbJxD",
+                  "expanded_url": "https://www.instagram.com/beatriiz.plima/",
+                  "display_url": "instagram.com/beatriiz.plima/",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 3437,
+          "friends_count": 457,
+          "listed_count": 0,
+          "created_at": "Tue Dec 01 22:52:41 +0000 2015",
+          "favourites_count": 23386,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 43448,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1295050288848605186/0EBeut0y_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1295050288848605186/0EBeut0y_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/4344390203/1600456109",
+          "profile_link_color": "B22222",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 485,
+        "favorite_count": 590,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+      },
+      "is_quote_status": false,
+      "retweet_count": 485,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Fri Oct 23 09:32:32 +0000 2020",
+      "id": 1319572406571356200,
+      "id_str": "1319572406571356160",
+      "text": "RT @larriebravels: Zayn: Golden? Que Golden oq man, tu viu better?vamos falar de better\n\nLiam: vamos falar do meu show de Halloween que eu…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "larriebravels",
+            "name": "eija is golden✨",
+            "id": 910674009653747700,
+            "id_str": "910674009653747714",
+            "indices": [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1136828183884513300,
+        "id_str": "1136828183884513280",
+        "name": "☪✝Nanny✝☪",
+        "screen_name": "ZianourryWDW",
+        "location": "",
+        "description": "",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 121,
+        "friends_count": 188,
+        "listed_count": 1,
+        "created_at": "Fri Jun 07 02:52:15 +0000 2019",
+        "favourites_count": 36,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 119,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1136828666502164480/jUaeVgXr_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1136828666502164480/jUaeVgXr_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1136828183884513280/1599919483",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Oct 23 00:53:10 +0000 2020",
+        "id": 1319441701631594500,
+        "id_str": "1319441701631594499",
+        "text": "Zayn: Golden? Que Golden oq man, tu viu better?vamos falar de better\n\nLiam: vamos falar do meu show de Halloween qu… https://t.co/b7FQcxhrbC",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/b7FQcxhrbC",
+              "expanded_url": "https://twitter.com/i/web/status/1319441701631594499",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "pt",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 910674009653747700,
+          "id_str": "910674009653747714",
+          "name": "eija is golden✨",
+          "screen_name": "larriebravels",
+          "location": "• 𝑷𝒓𝒊𝒏𝒄𝒆𝒔𝒔 𝑷𝒂𝒓𝒌 •",
+          "description": "𝒇𝒐𝒐𝒌𝒊𝒏' 𝒍𝒐𝒐𝒔𝒂𝒉 — “𝒔𝒉𝒖𝒕 𝒖𝒑 𝒂𝒏𝒅 𝒌𝒊𝒔𝒔 𝒎𝒆 - 𝒓𝒐𝒎𝒂𝒏 𝒈𝒐𝒅𝒇𝒓𝒆𝒚” ||  𝒇𝒂𝒏 𝒂𝒄𝒄𝒐𝒖𝒏𝒕 || 🐝 || — @91lourrys",
+          "url": "https://t.co/325Q6SBgtR",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/325Q6SBgtR",
+                  "expanded_url": "http://radlarrie.xn--c6h",
+                  "display_url": "radlarrie.♡",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 2895,
+          "friends_count": 2577,
+          "listed_count": 13,
+          "created_at": "Thu Sep 21 01:16:18 +0000 2017",
+          "favourites_count": 10525,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 8448,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "F5F8FA",
+          "profile_background_image_url": null,
+          "profile_background_image_url_https": null,
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1319144853314428928/N2kXgdzG_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1319144853314428928/N2kXgdzG_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/910674009653747714/1603343615",
+          "profile_link_color": "1DA1F2",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 118,
+        "favorite_count": 904,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+      },
+      "is_quote_status": false,
+      "retweet_count": 118,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Fri Oct 23 09:31:43 +0000 2020",
+      "id": 1319572199414562800,
+      "id_str": "1319572199414562817",
+      "text": "RT @beatriizplima: como é que estão sequer a pensar em fazer festas no Halloween sendo q estamos com 3200 casos por dia kkkkk falta de noçã…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "beatriizplima",
+            "name": "bibs",
+            "id": 4344390203,
+            "id_str": "4344390203",
+            "indices": [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2391513901,
+        "id_str": "2391513901",
+        "name": "DÍÍ 🌙",
+        "screen_name": "_callmeclarinha",
+        "location": "Malibu, CA",
+        "description": "Banana pancakes for my problems 🥞\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nESMAD - Design industrial 🤍",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1619,
+        "friends_count": 885,
+        "listed_count": 8,
+        "created_at": "Sat Mar 15 19:18:44 +0000 2014",
+        "favourites_count": 10248,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 79072,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "3B94D9",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1315073900192182278/7zHxG_MT_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1315073900192182278/7zHxG_MT_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2391513901/1602373074",
+        "profile_link_color": "19CF86",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 22 19:23:20 +0000 2020",
+        "id": 1319358695868870700,
+        "id_str": "1319358695868870666",
+        "text": "como é que estão sequer a pensar em fazer festas no Halloween sendo q estamos com 3200 casos por dia kkkkk falta de noção tbh",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "pt",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 4344390203,
+          "id_str": "4344390203",
+          "name": "bibs",
+          "screen_name": "beatriizplima",
+          "location": "Lisboa, Portugal",
+          "description": "1904",
+          "url": "https://t.co/wp3XtQbJxD",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/wp3XtQbJxD",
+                  "expanded_url": "https://www.instagram.com/beatriiz.plima/",
+                  "display_url": "instagram.com/beatriiz.plima/",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 3437,
+          "friends_count": 457,
+          "listed_count": 0,
+          "created_at": "Tue Dec 01 22:52:41 +0000 2015",
+          "favourites_count": 23386,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 43448,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1295050288848605186/0EBeut0y_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1295050288848605186/0EBeut0y_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/4344390203/1600456109",
+          "profile_link_color": "B22222",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 485,
+        "favorite_count": 590,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+      },
+      "is_quote_status": false,
+      "retweet_count": 485,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Fri Oct 23 09:31:26 +0000 2020",
+      "id": 1319572128874795000,
+      "id_str": "1319572128874795008",
+      "text": "RT @beatriizplima: como é que estão sequer a pensar em fazer festas no Halloween sendo q estamos com 3200 casos por dia kkkkk falta de noçã…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "beatriizplima",
+            "name": "bibs",
+            "id": 4344390203,
+            "id_str": "4344390203",
+            "indices": [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3030346072,
+        "id_str": "3030346072",
+        "name": "Inês",
+        "screen_name": "_inesfsilva",
+        "location": "Onde o sol não bate",
+        "description": "linda, livre, leve, solta.",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 559,
+        "friends_count": 657,
+        "listed_count": 0,
+        "created_at": "Wed Feb 11 13:35:33 +0000 2015",
+        "favourites_count": 32199,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 54504,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1313918263684931588/Fl94E3za_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1313918263684931588/Fl94E3za_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3030346072/1594495869",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 22 19:23:20 +0000 2020",
+        "id": 1319358695868870700,
+        "id_str": "1319358695868870666",
+        "text": "como é que estão sequer a pensar em fazer festas no Halloween sendo q estamos com 3200 casos por dia kkkkk falta de noção tbh",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "pt",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 4344390203,
+          "id_str": "4344390203",
+          "name": "bibs",
+          "screen_name": "beatriizplima",
+          "location": "Lisboa, Portugal",
+          "description": "1904",
+          "url": "https://t.co/wp3XtQbJxD",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/wp3XtQbJxD",
+                  "expanded_url": "https://www.instagram.com/beatriiz.plima/",
+                  "display_url": "instagram.com/beatriiz.plima/",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 3437,
+          "friends_count": 457,
+          "listed_count": 0,
+          "created_at": "Tue Dec 01 22:52:41 +0000 2015",
+          "favourites_count": 23386,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 43448,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1295050288848605186/0EBeut0y_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1295050288848605186/0EBeut0y_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/4344390203/1600456109",
+          "profile_link_color": "B22222",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 485,
+        "favorite_count": 590,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+      },
+      "is_quote_status": false,
+      "retweet_count": 485,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Fri Oct 23 09:30:56 +0000 2020",
+      "id": 1319572004224237600,
+      "id_str": "1319572004224237568",
+      "text": "RT @wtvcenas: halloween mm vai ser passado em casa kkkkk palhaçada de ano",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "wtvcenas",
+            "name": "cenas",
+            "id": 2923134857,
+            "id_str": "2923134857",
+            "indices": [
+              3,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2569703281,
+        "id_str": "2569703281",
+        "name": "Sentimentalista. 💔💔💔",
+        "screen_name": "queresoquewi",
+        "location": "No coração dela @didi24cd",
+        "description": "21y. Olhão. E sou o melhor erro da vida das pessoas ||",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1169,
+        "friends_count": 560,
+        "listed_count": 3,
+        "created_at": "Sun Jun 15 21:32:45 +0000 2014",
+        "favourites_count": 36721,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 148536,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/912291317820149761/pbFtSLII_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/912291317820149761/pbFtSLII_normal.jpg",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 22 20:46:31 +0000 2020",
+        "id": 1319379628654530600,
+        "id_str": "1319379628654530592",
+        "text": "halloween mm vai ser passado em casa kkkkk palhaçada de ano",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "pt",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 2923134857,
+          "id_str": "2923134857",
+          "name": "cenas",
+          "screen_name": "wtvcenas",
+          "location": "na merda ",
+          "description": "when i die play xxx, lil peep and lana at my funeral",
+          "url": "https://t.co/nOJsaV7xHh",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/nOJsaV7xHh",
+                  "expanded_url": "http://Instagram.com/wtvcenas",
+                  "display_url": "Instagram.com/wtvcenas",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 4012,
+          "friends_count": 877,
+          "listed_count": 19,
+          "created_at": "Mon Dec 15 16:23:06 +0000 2014",
+          "favourites_count": 99815,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 111035,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1215311362764804097/OV6wj88w_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1215311362764804097/OV6wj88w_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2923134857/1586349561",
+          "profile_link_color": "ABB8C2",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 120,
+        "favorite_count": 128,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+      },
+      "is_quote_status": false,
+      "retweet_count": 120,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pt"
+    },
+    {
+      "created_at": "Fri Oct 23 09:30:28 +0000 2020",
+      "id": 1319571883197608000,
+      "id_str": "1319571883197607938",
+      "text": "RT @beatriizplima: como é que estão sequer a pensar em fazer festas no Halloween sendo q estamos com 3200 casos por dia kkkkk falta de noçã…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "beatriizplima",
+            "name": "bibs",
+            "id": 4344390203,
+            "id_str": "4344390203",
+            "indices": [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "metadata": {
+        "iso_language_code": "pt",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 2667852059,
+        "id_str": "2667852059",
+        "name": "Pateiro",
+        "screen_name": "fabtchx",
+        "location": "2835",
+        "description": "RT🌟🕊",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 993,
+        "friends_count": 265,
+        "listed_count": 2,
+        "created_at": "Thu Jul 03 13:02:49 +0000 2014",
+        "favourites_count": 15270,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 70224,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1292485582141247488/PY4J-tal_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1292485582141247488/PY4J-tal_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2667852059/1586531353",
+        "profile_link_color": "DD2E44",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Thu Oct 22 19:23:20 +0000 2020",
+        "id": 1319358695868870700,
+        "id_str": "1319358695868870666",
+        "text": "como é que estão sequer a pensar em fazer festas no Halloween sendo q estamos com 3200 casos por dia kkkkk falta de noção tbh",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "metadata": {
+          "iso_language_code": "pt",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 4344390203,
+          "id_str": "4344390203",
+          "name": "bibs",
+          "screen_name": "beatriizplima",
+          "location": "Lisboa, Portugal",
+          "description": "1904",
+          "url": "https://t.co/wp3XtQbJxD",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/wp3XtQbJxD",
+                  "expanded_url": "https://www.instagram.com/beatriiz.plima/",
+                  "display_url": "instagram.com/beatriiz.plima/",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 3437,
+          "friends_count": 457,
+          "listed_count": 0,
+          "created_at": "Tue Dec 01 22:52:41 +0000 2015",
+          "favourites_count": 23386,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 43448,
+          "lang": null,
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1295050288848605186/0EBeut0y_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1295050288848605186/0EBeut0y_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/4344390203/1600456109",
+          "profile_link_color": "B22222",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false,
+          "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 485,
+        "favorite_count": 590,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "pt"
+      },
+      "is_quote_status": false,
+      "retweet_count": 485,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "pt"
+    }
+  ]
+}
