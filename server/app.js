@@ -1,4 +1,3 @@
-import Markov from 'markov-strings';
 import db from './lib/db';
 
 import {

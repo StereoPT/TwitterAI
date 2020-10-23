@@ -2,10 +2,11 @@
   "name": "twitterai",
   "version": "1.0.0",
   "description": "Node.js Artificial Intelligence Twitter User.",
-  "main": "app.js",
+  "main": "src/server.js",
   "scripts": {
-    "start": "node -r esm app.js",
-    "dev": "nodemon -r esm app.js --ignore *.json"
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js --ignore *.json",
+    "lint": "eslint src/"
   },
   "repository": {
     "type": "git",
@@ -21,13 +22,19 @@
   },
   "homepage": "https://github.com/StereoPT/TwitterAI#readme",
   "dependencies": {
-    "esm": "^3.2.25",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^4.1.1",
     "lowdb": "^1.0.0",
     "markov-strings": "^2.1.1",
+    "morgan": "^1.10.0",
     "shuffle-array": "^1.0.1",
     "twit": "^2.2.11"
   },
   "devDependencies": {
+    "eslint": "^7.11.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.1",
     "nodemon": "^2.0.4"
   }
 }
