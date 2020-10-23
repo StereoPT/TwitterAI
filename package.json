@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/StereoPT/TwitterAI#readme",
   "dependencies": {
-    "cli-progress": "^3.8.2",
     "esm": "^3.2.25",
     "lowdb": "^1.0.0",
     "markov-strings": "^2.1.1",
