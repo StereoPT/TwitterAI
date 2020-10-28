@@ -1,10 +1,28 @@
-import twit from 'twit';
-import shuffle from 'shuffle-array';
+const Twit = require('twit');
+const shuffle = require('shuffle-array');
+const twitterConfig = require('../config/TwitterConfig');
 
-import twitterConfig from '../TwitterConfig';
+const T = new Twit(twitterConfig);
 
-const T = new twit(twitterConfig);
+async function getTrends(woeid) {
+  const { data } = await T.get('trends/place', { id: woeid });
+  return data[0].trends;
+}
 
+async function getRandomTrend(woeid) {
+  const trends = await getTrends(woeid);
+  return shuffle.pick(trends);
+}
+
+module.exports = {
+  T,
+  trends: {
+    getTrends,
+    getRandomTrend,
+  },
+};
+
+/*
 export async function tweet(msg) {
     let tweetObj = { status: msg }
 
@@ -17,16 +35,6 @@ export async function getProfile(profileName) {
     return data;
 }
 
-export async function getTrends(woeid) {
-    const { data } = await T.get("trends/place", { id: woeid });
-    return data[0].trends;
-}
-
-export async function getRandomTrend(woeid) {
-    const trends = await getTrends(woeid);
-    return shuffle.pick(trends);
-}
-
 export async function getTweetsFromTrend(trend, lan, amount) {
     const { data } = await T.get('search/tweets', { q: trend, lang: lan, count: amount });
     return data;
@@ -37,3 +45,4 @@ export function getTrendingStream(trend, lan) {
 }
 
 export default T;
+*/
