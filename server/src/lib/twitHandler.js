@@ -14,35 +14,34 @@ async function getRandomTrend(woeid) {
   return shuffle.pick(trends);
 }
 
+async function searchTweets(trend, lan, amount) {
+  const { data } = await T.get('search/tweets', { q: trend, lang: lan, count: amount });
+  return data;
+}
+
+async function tweet(msg) {
+  const tweetObj = { status: msg };
+
+  const { data } = await T.post('statuses/update', tweetObj);
+  return data;
+}
+
+async function getProfile(profileName) {
+  const { data } = await T.get('users/show', { screen_name: profileName });
+  return data;
+}
+
 module.exports = {
   T,
+  tweet,
   trends: {
     getTrends,
     getRandomTrend,
   },
+  search: {
+    searchTweets,
+  },
+  user: {
+    getProfile,
+  },
 };
-
-/*
-export async function tweet(msg) {
-    let tweetObj = { status: msg }
-
-    const { data } = await T.post('statuses/update', tweetObj);
-    return data;
-}
-
-export async function getProfile(profileName) {
-    const { data } = await T.get('users/show', { screen_name: profileName });
-    return data;
-}
-
-export async function getTweetsFromTrend(trend, lan, amount) {
-    const { data } = await T.get('search/tweets', { q: trend, lang: lan, count: amount });
-    return data;
-}
-
-export function getTrendingStream(trend, lan) {
-    return T.stream('statuses/filter', { track: trend, language: lan });
-}
-
-export default T;
-*/

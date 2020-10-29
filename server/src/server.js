@@ -8,7 +8,9 @@ require('dotenv').config();
 const twitHandler = require('./lib/twitHandler');
 
 const trendsAPI = require('./api/trends')(twitHandler.trends);
-const middlewares = require('./middlewares');
+const searchAPI = require('./api/search')(twitHandler.search);
+const userAPI = require('./api/user')(twitHandler.user);
+const middlewares = require('./api/middlewares');
 
 const app = express();
 app.use(morgan('common'));
@@ -18,13 +20,17 @@ app.use(cors({
 }));
 app.use(express.json());
 
+console.log('[TwitterAI]');
+
 app.get('/', (req, res) => {
   res.json({
-    message: 'Hello World',
+    message: 'TwitterAI',
   });
 });
 
 app.use('/api/trends', trendsAPI);
+app.use('/api/search', searchAPI);
+app.use('/api/user', userAPI);
 
 app.use(middlewares.notFound);
 app.use(middlewares.errorHandler);
