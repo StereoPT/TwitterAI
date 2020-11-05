@@ -2,13 +2,13 @@ import React, { Component } from 'react';
 
 import Title from './Title';
 
-export default class Dashboard extends Component {
+export default class Profile extends Component {
   render() {
     return (
       <React.Fragment>
         <div className="py-2">
           <div className="container-fluid">
-            <Title title="Dashboard"/>
+            <Title title="Profile"/>
           </div>
         </div>
       </React.Fragment>
