@@ -4,13 +4,13 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 import Navbar from './components/Navbar';
-import Dashboard from './components/Dashboard';
-import Profile from './components/Profile';
+import Dashboard from './pages/Dashboard';
+import Profile from './pages/Profile';
 
 function App() {
   return (
     <React.Fragment>
-      <Navbar name="Guido Pereira" username="TheStereoPT" />
+      <Navbar />
       <Switch>
         <Route exact path="/" component={ Dashboard } />
         <Route exact path="/profile" component={ Profile } />

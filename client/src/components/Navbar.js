@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import logo from '../logo.svg';
 import styled from 'styled-components';
 
-import { UserButton } from './styled/UserButton';
+import UserButton from './UserButton';
 
 export default class Navbar extends Component {
   render() {
@@ -13,31 +13,12 @@ export default class Navbar extends Component {
           <img src={logo} alt="Twitter Logo" className="navbar-brand logo" />
         </Link>
         <ul className="navbar-nav align-items-center">
-          <li className="nav-item ml-5">
+          <li className="nav-item ml-1">
             <Link to="/" className="nav-link">Dashboard</Link>
           </li>
         </ul>
         <Link to="/profile" className="ml-auto text-decoration-none">
-          <div>
-            <UserButton>
-              <div className="profile-info">
-                <i className="fas fa-user-circle fa-2x" />
-              </div>
-              <div className="profile-info user-info">
-                <div className="mx-2">
-                  <div className="flex-row align-items-center">
-                    <strong>{this.props.name}</strong>
-                  </div>
-                  <div className="flex-row align-items-center text-muted">
-                    @{this.props.username}
-                  </div>
-                </div>
-              </div>
-              <div className="profile-more">
-                <i className="fas fa-chevron-down" />
-              </div>
-            </UserButton>
-          </div>
+          <UserButton />
         </Link>
       </NavWrapper>
     );
@@ -46,7 +27,7 @@ export default class Navbar extends Component {
 
 const NavWrapper = styled.nav`
   background-color: var(--mainDark);
-  border-bottom: 0.15rem solid var(--pureWhite);
+  border-bottom: 0.1rem solid var(--borderColor);
 
   .logo {
     height: 40px;

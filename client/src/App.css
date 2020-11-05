@@ -1,16 +1,17 @@
 :root {
   --pureWhite: #FFFFFF;
   --mainDark: #15202B;
-  --transparentAccent: #F45E22;
+  --accentColor: #F45E22;
+  --transparentAccent: rgba(244, 93, 34, 0.1);
+  --borderColor: rgb(56, 68, 77);
   /*--mainGreen: #89B0AE;
-  --lightGreen: #BEE3DB;*/
-  --mainWhite: #FFFFFF;
-  /*--mainDark: #555B6E;
+  --lightGreen: #BEE3DB;
+  --mainDark: #555B6E;
   --mainPeach: #FFD6BA;*/
 }
 
-/*body {
-  font-family: "Domine", serif !important;
-  background: var(--mainWhite) !important;
-  color: var(--mainDark) !important;
-}*/
+body {
+  /* font-family: "Domine", serif !important; */
+  background: var(--mainDark) !important;
+  color: var(--pureWhite) !important;
+}
