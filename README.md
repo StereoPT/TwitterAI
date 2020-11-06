@@ -2,7 +2,7 @@
 
 Node.js Artificial Intelligence Twitter User.
 
-![Preview Thumbnail](https://raw.githubusercontent.com/StereoPT/TwitterAI/master/Images/TweetFromPage.JPG)
+![Preview Thumbnail](https://github.com/StereoPT/TwitterAI/blob/main/screens/Dashboard01.JPG)
 
 ## Getting Started
 
@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ```
 * Node.js
-* Text Editor
+* Text Editor (Visual Studio Code)
 * Twitter Account
 ```
 
@@ -21,7 +21,7 @@ These instructions will get you a copy of the project up and running on your loc
 To install this AI Bot, you need to follow these steps:
 
 1. Clone this repository to your computer.
-1. In the root directory create a new file called: **TwiterConfig.js**
+1. In the */server/config* directory create a new file called: **TwiterConfig.js**
     1. In that file add your Twitter Authentication Keys & Tokens
     ```
       module.exports = {
@@ -31,25 +31,20 @@ To install this AI Bot, you need to follow these steps:
         access_token_secret: '...'
       }
     ```
-1. Open the **config.json** file and to change your configurations
+2. Open the **config.js** file and to change your configurations
 ```
 {
-  "screen_name": "DiogoSilvaa94",  //Username
-  "analyze_amount": 100,           //Amount of Tweets to Analyze
-  "language": "pt"                 //Tweet Language
+  SCREEN_NAME: 'TheStereoPT',   //Username
+  ANALYZE_AMOUNT: 25,           //Amount of Tweets to Analyze
 }
 ```
 1. Open the console and install all the dependencies with
 ```
 npm install
 ```
-1. Run the Application with
+1. Run the Server with
 ```
-nodemon app.js
-```
-1. Visit:
-```
-localhost:2017
+npm run dev
 ```
 
 ## Features
