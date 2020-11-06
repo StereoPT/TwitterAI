@@ -9,13 +9,13 @@ import Profile from './pages/Profile';
 
 function App() {
   return (
-    <React.Fragment>
+    <div className="vh-100">
       <Navbar />
       <Switch>
         <Route exact path="/" component={ Dashboard } />
         <Route exact path="/profile" component={ Profile } />
       </Switch>
-    </React.Fragment>
+    </div>
   );
 }
 
