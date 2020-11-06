@@ -1,4 +1,4 @@
-# TwitterAI [![Build Version](https://img.shields.io/badge/Version-Alpha_0.1-blue.svg)]
+# TwitterAI [![Build Version](https://img.shields.io/badge/Version-Alpha_0.2-blue.svg)]
 
 Node.js Artificial Intelligence Twitter User.
 
@@ -21,39 +21,33 @@ These instructions will get you a copy of the project up and running on your loc
 To install this AI Bot, you need to follow these steps:
 
 1. Clone this repository to your computer.
-1. In the */server/config* directory create a new file called: **TwiterConfig.js**
+2. In the */server/config* directory create a new file called: **TwiterConfig.js**
     1. In that file add your Twitter Authentication Keys & Tokens
-    ```
-      module.exports = {
-        consumer_key: '...',
-        consumer_secret: '...',
-        access_token: '...',
-        access_token_secret: '...'
-      }
-    ```
-2. Open the **config.js** file and to change your configurations
+```
+  module.exports = {
+    consumer_key: '...',
+    consumer_secret: '...',
+    access_token: '...',
+    access_token_secret: '...'
+  }
+```
+3. Open the **config.js** file and to change your configurations
 ```
 {
   SCREEN_NAME: 'TheStereoPT',   //Username
   ANALYZE_AMOUNT: 25,           //Amount of Tweets to Analyze
 }
 ```
-1. Open the console and install all the dependencies with
+4. Open the console and install all the dependencies with
 ```
 npm install
 ```
-1. Run the Server with
+5. Run the Server with
 ```
 npm run dev
 ```
 
 ## Features
-
-- [x] Colors for Diferent Tweets (Tweets, RT, @)
-- [x] Display Generated Tweets
-- [ ] Tweet from Page
-- [ ] Code Cleanup
-- [ ] Better Tweet Generation
 
 [Full List and Plans](https://github.com/StereoPT/TwitterAI/wiki)
 
@@ -61,7 +55,8 @@ npm run dev
 
 * [Bootstrap](http://getbootstrap.com/) - Web Front-End Library
 * [Twit](https://github.com/ttezel/twit) - Node.js Twitter API
-* [Socket.io](https://socket.io) - For Sockets
+* [Express.js]
+* [React]
 
 ## Contributing
 
