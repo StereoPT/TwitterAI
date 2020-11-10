@@ -12,10 +12,10 @@ export default class UserButton extends Component {
   }
 
   componentDidMount() {
-    this.setUser()
+    this.getUser();
   }
 
-  setUser = () => {
+  getUser = () => {
     axios.get('http://localhost:1337/api/user').then(({ data }) => {
       this.setState(() => {
         return { user: {
