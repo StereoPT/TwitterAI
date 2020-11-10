@@ -16,7 +16,8 @@ export default class UserButton extends Component {
   }
 
   getUser = () => {
-    axios.get('http://localhost:1337/api/user').then(({ data }) => {
+    const url = window.location.hostname;
+    axios.get(`http://${url}:1337/api/user`).then(({ data }) => {
       this.setState(() => {
         return { user: {
           name: data.name,

@@ -1,5 +1,6 @@
 :root {
   --pureWhite: #FFFFFF;
+  --transparentWhite: rgba(255, 255, 255, 0.03);
   --mainDark: #15202B;
   --secundaryDark: #253341;
   --accentColor: #F45E22;
@@ -15,4 +16,8 @@ body {
   /* font-family: "Domine", serif !important; */
   background: var(--mainDark) !important;
   color: var(--pureWhite) !important;
+}
+
+.vh-100 {
+  min-height: 100vh;
 }

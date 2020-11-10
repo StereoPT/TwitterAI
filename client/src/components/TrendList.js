@@ -3,7 +3,8 @@ import axios from 'axios';
 
 import styled from 'styled-components';
 
-import Trend from './Trend';
+import SearchBar from './SearchBar';
+import TrendItem from './TrendItem';
 
 export default class TrendList extends Component {
   state = {
@@ -16,7 +17,8 @@ export default class TrendList extends Component {
   }
 
   getTrends = () => {
-    axios.get('http://localhost:1337/api/trends').then(({ data }) => {
+    const url = window.location.hostname;
+    axios.get(`http://${url}:1337/api/trends`).then(({ data }) => {
       this.setState(() => {
         return { trends: data };
       });
@@ -27,14 +29,15 @@ export default class TrendList extends Component {
     return (
       <TrendWrapper className="col-3">
         <div className="py-3">
-          <div className="card">
+          <SearchBar />
+          <div className="card mt-3">
             <h5 className="card-header">
               <strong>Trends for you</strong>
             </h5>
             <div className="list-group list-group-flush">
-              { this.state.trends.slice(0, 5).map((trend) => {
+              { this.state.trends.slice(0, 7).map((trend) => {
                 return (
-                  <Trend key={trend.name} trend={ trend } />
+                  <TrendItem key={trend.name} trend={ trend } />
                 );
               })}
             </div>
@@ -61,7 +64,7 @@ const TrendWrapper = styled.div`
       color: var(--pureWhite);
 
       &:hover {
-        background-color: rgba(255, 255, 255, 0.03);
+        background-color: var(--transparentWhite);
       }
     }
   }

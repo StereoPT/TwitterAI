@@ -8,7 +8,7 @@ import UserButton from './UserButton';
 export default class Navbar extends Component {
   render() {
     return (
-      <NavWrapper className="navbar navbar-expand-sm navbar-dark px-sm-3">
+      <NavWrapper className="navbar navbar-expand-sm navbar-dark px-sm-3 flex-shrink-0">
         <Link to="/">
           <img src={logo} alt="Twitter Logo" className="navbar-brand logo" />
         </Link>

@@ -15,8 +15,15 @@ const middlewares = require('./api/middlewares');
 const app = express();
 app.use(morgan('common'));
 app.use(helmet());
+const whitelist = [process.env.CORS_ORIGIN, 'http://192.168.1.7:3000'];
 app.use(cors({
-  origin: process.env.CORS_ORIGIN,
+  origin: (origin, callback) => {
+    if (whitelist.indexOf(origin) !== -1) {
+      callback(null, true);
+    } else {
+      callback(new Error('Not Allowed by CORS'));
+    }
+  },
 }));
 app.use(express.json());
 
