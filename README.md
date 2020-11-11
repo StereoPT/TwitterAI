@@ -2,7 +2,7 @@
 
 Node.js Artificial Intelligence Twitter User.
 
-![Preview Thumbnail](https://github.com/StereoPT/TwitterAI/blob/main/screens/Dashboard01.JPG)
+![Preview Thumbnail](https://github.com/StereoPT/TwitterAI/blob/main/screens/Dashboard02.JPG)
 
 ## Getting Started
 
@@ -53,10 +53,11 @@ npm run dev
 
 ## Built With
 
-* [Bootstrap](http://getbootstrap.com/) - Web Front-End Library
 * [Twit](https://github.com/ttezel/twit) - Node.js Twitter API
-* [Express.js]
-* [React]
+* [Express.js](https://expressjs.com/) - Web Application Framework
+* [React](https://reactjs.org/) - JavaScript library for building UI 
+* [Redux](https://redux.js.org/) - Predictable State Container
+* [Bootstrap](http://getbootstrap.com/) - Web Front-End Library
 
 ## Contributing
 
