@@ -14,9 +14,39 @@ async function getRandomTrend(woeid) {
   return shuffle.pick(trends);
 }
 
-async function searchTweets(trend, lan, amount) {
-  const { data } = await T.get('search/tweets', { q: trend, lang: lan, count: amount });
-  return data;
+function CleanTweet(eachTweet) {
+  console.log(eachTweet);
+  let tweetToSave = eachTweet.text;
+
+  if (eachTweet.truncated && eachTweet.extended_tweet) {
+    tweetToSave = eachTweet.extended_tweet.full_text;
+  }
+
+  if (eachTweet.retweeted_status) {
+    tweetToSave = eachTweet.retweeted_status.text;
+    if (eachTweet.retweeted_status.truncated && eachTweet.retweeted_status.extended_tweet) {
+      tweetToSave = eachTweet.retweeted_status.extended_tweet.full_text;
+    }
+  }
+
+  if (tweetToSave.indexOf('https://t.co/') !== -1) {
+    // eslint-disable-next-line prefer-destructuring
+    tweetToSave = tweetToSave.split('https://t.co/')[0];
+  }
+
+  if (tweetToSave.startsWith('@')) {
+    tweetToSave = tweetToSave.split(' ').splice(1).join(' ');
+  }
+
+  return tweetToSave;
+}
+
+async function getTweetsFromTrend(woeid, lan, amount) {
+  const randomTrend = await getRandomTrend(woeid);
+  const { data } = await T.get('search/tweets', { q: randomTrend.query, lang: lan, count: amount });
+  const tweets = data.statuses.map((eachTweet) => CleanTweet(eachTweet));
+
+  return tweets;
 }
 
 async function tweet(msg) {
@@ -37,9 +67,7 @@ module.exports = {
   trends: {
     getTrends,
     getRandomTrend,
-  },
-  search: {
-    searchTweets,
+    getTweetsFromTrend,
   },
   user: {
     getProfile,

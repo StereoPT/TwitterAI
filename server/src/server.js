@@ -8,23 +8,27 @@ require('dotenv').config();
 const twitHandler = require('./lib/twitHandler');
 
 const trendsAPI = require('./api/trends')(twitHandler.trends);
-const searchAPI = require('./api/search')(twitHandler.search);
 const userAPI = require('./api/user')(twitHandler.user);
 const middlewares = require('./api/middlewares');
 
 const app = express();
 app.use(morgan('common'));
 app.use(helmet());
+/*
 const whitelist = [process.env.CORS_ORIGIN, 'http://192.168.1.7:3000'];
-app.use(cors({
+const corsOptions = {
   origin: (origin, callback) => {
+    console.log(origin);
     if (whitelist.indexOf(origin) !== -1) {
       callback(null, true);
     } else {
       callback(new Error('Not Allowed by CORS'));
     }
   },
-}));
+};
+*/
+
+app.use(cors());
 app.use(express.json());
 
 console.log('[TwitterAI]');
@@ -36,7 +40,6 @@ app.get('/', (req, res) => {
 });
 
 app.use('/api/trends', trendsAPI);
-app.use('/api/search', searchAPI);
 app.use('/api/user', userAPI);
 
 app.use(middlewares.notFound);
