@@ -1,35 +1,9 @@
 import React, { Component } from 'react';
-import axios from 'axios';
 import styled from 'styled-components';
 
 export default class UserButton extends Component {
-  state = {
-    user: {
-      name: '',
-      username: '',
-      profileImage: ''
-    },
-  }
-
-  componentDidMount() {
-    this.getUser();
-  }
-
-  getUser = () => {
-    const url = window.location.hostname;
-    axios.get(`http://${url}:1337/api/user`).then(({ data }) => {
-      this.setState(() => {
-        return { user: {
-          name: data.name,
-          username: data.screen_name,
-          profileImage: data.profile_image_url,
-        }};
-      });
-    });
-  };
-
   render() {
-    const { name, username, profileImage } = this.state.user;
+    const { name, username, profileImage } = this.props.user;
 
     return (
       <div>

@@ -1,30 +1,12 @@
 import React, { Component } from 'react';
-import axios from 'axios';
 
 import styled from 'styled-components';
+import { RootConsumer } from '../context';
 
 import SearchBar from './SearchBar';
 import TrendItem from './TrendItem';
 
 export default class TrendList extends Component {
-  state = {
-    trends: [],
-    selectedTrend: '',
-  }
-
-  componentDidMount() {
-    this.getTrends();
-  }
-
-  getTrends = () => {
-    const url = window.location.hostname;
-    axios.get(`http://${url}:1337/api/trends`).then(({ data }) => {
-      this.setState(() => {
-        return { trends: data };
-      });
-    });
-  };
-
   render() {
     return (
       <TrendWrapper className="col-3">
@@ -35,11 +17,13 @@ export default class TrendList extends Component {
               <strong>Trends for you</strong>
             </h5>
             <div className="list-group list-group-flush">
-              { this.state.trends.slice(0, 7).map((trend) => {
-                return (
-                  <TrendItem key={trend.name} trend={ trend } />
-                );
-              })}
+              <RootConsumer>
+                {(value) => {
+                  return value.trends.slice(0, 7).map((trend) => {
+                    return ( <TrendItem key={trend.name} trend={ trend } /> );
+                  });
+                }}
+              </RootConsumer>
             </div>
           </div>
         </div>

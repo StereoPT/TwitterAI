@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import logo from '../logo.svg';
 import styled from 'styled-components';
 
+import { RootConsumer } from '../context';
 import UserButton from './UserButton';
 
 export default class Navbar extends Component {
@@ -18,7 +19,9 @@ export default class Navbar extends Component {
           </li>
         </ul>
         <Link to="/profile" className="ml-auto text-decoration-none">
-          <UserButton />
+          <RootConsumer>
+            { (value) => { return <UserButton user={value.user} /> }}
+          </RootConsumer>
         </Link>
       </NavWrapper>
     );
