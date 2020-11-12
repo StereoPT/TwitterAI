@@ -20,7 +20,7 @@ export default class TrendList extends Component {
               <RootConsumer>
                 {(value) => {
                   return value.trends.slice(0, 7).map((trend) => {
-                    return ( <TrendItem key={trend.name} trend={ trend } /> );
+                    return ( <TrendItem key={trend.name} trend={ trend } handleSelectedTrend={value.handleSelectedTrend} /> );
                   });
                 }}
               </RootConsumer>

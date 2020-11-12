@@ -6,8 +6,8 @@ const RootContext = React.createContext();
 class RootProvider extends Component {
   state = {
     user: { },
-    selectedTrend: '',
     trends: [ ],
+    selectedTrend: { },
   };
 
   componentDidMount() {
@@ -39,10 +39,23 @@ class RootProvider extends Component {
     });
   }
 
+  getTrend = (name) => {
+    const trend = this.state.trends.find(item => item.name === name);
+    return trend;
+  };
+
+  handleSelectedTrend = (name) => {
+    const trend = this.getTrend(name);
+    this.setState(() => {
+      return { selectedTrend: trend };
+    });
+  };
+
   render() {
     return (
       <RootContext.Provider value={{
         ...this.state,
+        handleSelectedTrend: this.handleSelectedTrend,
       }}>
         { this.props.children }
       </RootContext.Provider>

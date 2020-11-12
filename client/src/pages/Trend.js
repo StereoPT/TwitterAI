@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 
+import { RootConsumer } from '../context';
 import Title from '../components/Title';
 
 export default class TrendPage extends Component {
@@ -8,7 +9,11 @@ export default class TrendPage extends Component {
     return (
       <React.Fragment>
         <div className="col-12">
-          <Title title="Trend" />
+          <RootConsumer>
+            {(value) => {
+              return (<Title title={value.selectedTrend.name} />);
+            }}
+          </RootConsumer>
         </div>
       </React.Fragment>
     );
