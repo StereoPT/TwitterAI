@@ -24,7 +24,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "helmet": "^4.1.1",
     "lowdb": "^1.0.0",
     "markov-strings": "^2.1.1",
